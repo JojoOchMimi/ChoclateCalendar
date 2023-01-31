@@ -15,6 +15,7 @@ public class Main {
             System.out.println((i + 1) + "<<" + chocolateCalender[i].getShape() + " " + chocolateCalender[i].getWeight() + " " + chocolateCalender[i].getEaten());
         }*/
         main.openCalendar(chocolateCalender);
+        //wiksjiofji
 
         //for(int i = 0; i < chocolateCalender.length; i++)
         //System.out.println(chocolateCalender[i].getShape()+ ", " + chocolateCalender[i].getWeight());
